@@ -17,6 +17,7 @@ Here's a glance at the certifications I am working towards, along with my curren
 ### General-Purpose Programming
 
 - [x] **PCEP™ – Certified Entry-Level Python Programmer**
+
   The PCEP certification has helped me grasp the fundamental concepts of Python programming, including syntax, semantics, and the runtime environment.  
   ![Certificate](certificates/pcep/christopher_massie_pcep_cert.png)  
   [Verify Digital Certificate](https://verify.openedg.org/?id=NwP9.vfxf.ZnwH)
