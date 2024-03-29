@@ -24,38 +24,49 @@ Here's a glance at the certifications I am working towards, along with my curren
   > **Certification Code**: `NwP9.vfxf.ZnwH`
   >
   > [Verify Digital Certificate](https://verify.openedg.org/?id=NwP9.vfxf.ZnwH)
+  >
+  > [Certification Details](https://pythoninstitute.org/pcep)
   
   
 
 - [ ] **PCAP™ – Certified Associate Python Programmer**  
-  Next on my journey is the PCAP certification, which focuses on more advanced programming techniques and concepts in Python.  
-  [Certification Details](https://pythoninstitute.org/pcap)
+  
+  > Next on my journey is the PCAP certification, which focuses on more advanced programming techniques and concepts in Python.  
+  >
+  > [Certification Details](https://pythoninstitute.org/pcap)
 
 - [ ] **PCPP1™ – Certified Professional Python Programmer Level 1**  
-  Aiming to solidify my status as a professional Python programmer by covering advanced topics and best practices.  
-  [Certification Details](https://pythoninstitute.org/pcpp1)
+  
+  > Aiming to solidify my status as a professional Python programmer by covering advanced topics and best practices.  
+  >
+  > [Certification Details](https://pythoninstitute.org/pcpp1)
 
 - [ ] **PCPP2™ – Certified Professional Python Programming Level 2**  
-  The final step in the general-purpose programming track, focusing on specialized areas such as GUI programming, network programming, and Python-MySQL database access.  
-  [Certification Details](https://pythoninstitute.org/pcpp2)
+  
+  > The final step in the general-purpose programming track, focusing on specialized areas such as GUI programming, network programming, and Python-MySQL database access.  
+  >
+  > [Certification Details](https://pythoninstitute.org/pcpp2)
 
 ### Testing
 
 - [ ] **PCAT™ – Certified Associate Tester with Python**  
-  This certification will enhance my skills in developing and executing comprehensive test plans using Python.  
-  [Certification Details](https://pythoninstitute.org/pcat)
+  
+  > This certification will enhance my skills in developing and executing comprehensive test plans using Python.  
+  > [Certification Details](https://pythoninstitute.org/pcat)
 
 ### Data Analytics
 
 - [ ] **PCED™ – Certified Entry-Level Data Analyst with Python**  
-  Embarking on the journey to understand data analysis fundamentals with Python.  
-  [Certification Details](https://pythoninstitute.org/pced)
+  
+  > Embarking on the journey to understand data analysis fundamentals with Python.  
+  > [Certification Details](https://pythoninstitute.org/pced)
 
 - [ ] **PCAD™ – Certified Associate Data Analyst with Python**  
-  The next step in mastering data analytics, focusing on more advanced analysis techniques and tools.  
-  [Certification Details](https://pythoninstitute.org/pcad)
+  
+  > The next step in mastering data analytics, focusing on more advanced analysis techniques and tools.  
+  > [Certification Details](https://pythoninstitute.org/pcad)
 
 ## Contribute
 
-Feel free to explore my projects and scripts. Any feedback, suggestions, or contributions to improve the code or projects are highly welcomed. Let's learn and grow together in this Python journey!
+Feel free to explore my projects and scripts. Any feedback, suggestions, or contributions to improve the code or projects are highly welcomed.
 
