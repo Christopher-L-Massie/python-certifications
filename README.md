@@ -2,11 +2,17 @@
 
 Repo to store scripts made during studying for the python institute programmer certificaitons.
 
+Certification Roadmap: https://pythoninstitute.org/certification-tracks
+
 Certification Verification Page: https://verify.openedg.org
 
 ### General-Purpose Programming
 
-- [x] [PCEP™ – Certified Entry-Level Python Programmer](https://pythoninstitute.org/pcep) [Digital Certificate](https://verify.openedg.org/?id=NwP9.vfxf.ZnwH.)
+- [x] [PCEP™ – Certified Entry-Level Python Programmer](https://pythoninstitute.org/pcep) - 
+
+![Certificate](certificates/pcep/christopher_massie_pcep_cert.png)
+[Digital Certificate Verification](https://verify.openedg.org/?id=NwP9.vfxf.ZnwH.)
+      
 - [ ] [PCAP™ – Certified Associate Python Programmer](https://pythoninstitute.org/pcap)
 - [ ] [PCPP1™ – Certified Professional Python Programmer Level 1](https://pythoninstitute.org/pcpp1)
 - [ ] [PCPP2™ – Certified Professional Python Programming Level 2](https://pythoninstitute.org/pcpp2)
